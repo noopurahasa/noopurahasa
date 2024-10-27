@@ -3,12 +3,12 @@
 
 [![How to pronounce my name](https://img.shields.io/badge/Pronunciation-Audio-blue?style=flat-square)](./noopura.mp3)
 
-I'm a software developer with 12 years experience in automotive Industry.
-I have woked on automotive concepts such as CAN commmunication, Software sharing, Diagnostics and currently working on github workflow automation.
-I specialize in C#, ASP .NET, Python and passionate about MetaVerse, AI/ML and Game Development.
-My core responisibility is to come up with innovative solutions that blend technology and creativity.
+I'm a software developer with 12 years of experience in the automotive industry. 
+I have worked on automotive concepts such as CAN communication, software sharing, diagnostics, and currently work on GitHub workflow automation. 
+I specialize in C#, ASP.NET, and Python, and I’m passionate about the Metaverse, AI/ML, and game development. 
+My core responsibility is to create innovative solutions that blend technology and creativity.
 
-I have also developed web portals, windows applications and apps.
+Additionally, I have experience developing web portals, Windows applications, and apps
 
 ## Tech Stack
 ## Key Projects
